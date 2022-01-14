@@ -2,9 +2,6 @@ body {
     
 }
 
-h5 {
-    color: purple;
-}
 .container {
 
     position: relative;
@@ -18,14 +15,14 @@ h5 {
     color: white;
   }
 
-  /* Top right text */
+  /* .navbar */
   .navbar {
     position: absolute;
     top: 8px;
     right: 16px;
   }
 
-  /* Centered text */
+  /* center-left */
   .center-left {
     position: absolute;
     top: 50%;
@@ -36,10 +33,8 @@ h5 {
   }
 
   .p-message-center-left {
-      /* text-align: center; */
       margin: 0;
       width: 70%;
-      /* left: 50%; */
   }
 
     /* center-right text */
@@ -47,35 +42,37 @@ h5 {
         position: absolute;
         top: 50%;
         right: 10%;
+        color: black;
       }
 
-      .white-circle {
+      .white-circle-center-right {
           position: absolute;
           right: 10px;
           bottom: -150px;
           height: 300px;
       }
 
-      .explore {
+      .p-explore-center-right {
         color: black;  
         position: absolute;
         right: 125px;
+        height: 50px;
 
       }
   
   /* Bottom left text */
-  .bottom-left {
+  /* .bottom-left {
     position: absolute;
     bottom: 8px;
     left: 16px;
-  }
+  } */
   
   /* Top left text */
-  .top-left {
+  /* .top-left {
     position: absolute;
     top: 8px;
     left: 16px;
-  }
+  } */
   
   
   
