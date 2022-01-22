@@ -1,81 +1,101 @@
 body {
-    
 }
 
 .container {
-
-    position: relative;
-    text-align: center;
-    color: white;
+  position: relative;
+  text-align: center;
+  color: white;
 }
 /* Container holding the image and the text */
 .container {
-    position: relative;
-    text-align: center;
-    color: white;
-  }
+  position: relative;
+  text-align: center;
+  color: white;
+}
 
-  /* .navbar */
-  .navbar {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-  }
+/* .navbar */
+.navbar {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  width: 65%;
+  height: 4%;
+  font-size: 1.5rem;
+}
+.navbar-link {
+  margin-left: 10%;
+  text-align: right;
+  color: white;
+}
 
-  /* center-left */
-  .center-left {
-    position: absolute;
-    top: 50%;
-    left: 35%;
-    transform: translate(-50%, -50%);
-    text-align: left;
-    width: 25%;
-  }
+/* .navbar-link-right {
+  text-align: right;
+  color: white;
+} */
 
-  .p-message-center-left {
-      margin: 0;
-      width: 70%;
-  }
+.navabar-link-bold {
+  font-weight: bold;
+}
 
-    /* center-right text */
-    .center-right {
-        position: absolute;
-        top: 50%;
-        right: 10%;
-        color: black;
-      }
+a {
+  text-decoration: none;
+}
 
-      .white-circle-center-right {
-          position: absolute;
-          right: 10px;
-          bottom: -150px;
-          height: 300px;
-      }
+/* center-left */
+.center-left {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  width: 25%;
+}
 
-      .p-explore-center-right {
-        color: black;  
-        position: absolute;
-        right: 125px;
-        height: 50px;
+.h3-travel-text-center-left{
+  font-size: 2rem;
+}
+.h1-space-text-center-left {
+  font-size: 8.5rem;
+}
 
-      }
-  
-  /* Bottom left text */
-  /* .bottom-left {
+.p-message-center-left {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+/* center-right text */
+.center-right {
+  position: absolute;
+  top: 50%;
+  right: 10%;
+  color: black;
+}
+
+.white-circle-center-right {
+  position: absolute;
+  right: 10px;
+  bottom: -150px;
+  height: 300px;
+}
+
+.p-explore-center-right {
+  color: black;
+  font-size: 4.5rem;
+  position: absolute;
+  right: 125px;
+  height: 50px;
+}
+
+/* Bottom left text */
+/* .bottom-left {
     position: absolute;
     bottom: 8px;
     left: 16px;
   } */
-  
-  /* Top left text */
-  /* .top-left {
+
+/* Top left text */
+/* .top-left {
     position: absolute;
     top: 8px;
     left: 16px;
   } */
-  
-  
-  
-
-  
-  
