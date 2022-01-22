@@ -1,34 +1,34 @@
 
 HTML
-1. INDEX []
-2. DESTINATION []
-    EUROPA []
-    MARS []
-    MOON []
-    TITAN []
-3. CREW []
-    COMMANDER []
-    ENGINEER []
-    PILOT []
-    SPECIALIST []
-4. TECHNOLOGY []
-    CAPSULE []
-    SPACEPORT []
-    VEHICLE []
+* [X] ~~*1. INDEX*~~ [2022-01-22]
+* [ ] 2. DESTINATION
+    * [ ]     EUROPA
+    * [ ]     MARS
+    * [ ]     MOON
+    * [ ]     TITAN
+* [ ] 3. CREW
+    * [ ]     COMMANDER
+    * [ ]     ENGINEER
+    * [ ]     PILOT
+    * [ ]     SPECIALIST
+* [ ] 4. TECHNOLOGY
+    * [ ]     CAPSULE
+    * [ ]     SPACEPORT
+    * [ ]     VEHICLE
 
 CSS
-1. INDEX []
-2. DESTINATION []
-    EUROPA []
-    MARS []
-    MOON []
-    TITAN []
-3. CREW []
-    COMMANDER []
-    ENGINEER []
-    PILOT []
-    SPECIALIST []
-4. TECHNOLOGY []
-    CAPSULE []
-    SPACEPORT []
-    VEHICLE []
+* [ ] 1. INDEX
+* [ ] 2. DESTINATION
+    * [ ]     EUROPA
+    * [ ]     MARS
+    * [ ]     MOON
+    * [ ]     TITAN
+* [ ] 3. CREW
+    * [ ]     COMMANDER
+    * [ ]     ENGINEER
+    * [ ]     PILOT
+    * [ ]     SPECIALIST
+* [ ] 4. TECHNOLOGY
+    * [ ]     CAPSULE
+    * [ ]     SPACEPORT
+    * [ ]     VEHICLE
