@@ -1,11 +1,5 @@
-body {
-}
 
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
+
 /* Container holding the image and the text */
 .container {
   position: relative;
@@ -27,11 +21,6 @@ body {
   text-align: right;
   color: white;
 }
-
-/* .navbar-link-right {
-  text-align: right;
-  color: white;
-} */
 
 .navabar-link-bold {
   font-weight: bold;
