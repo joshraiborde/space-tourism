@@ -56,22 +56,22 @@ HTML
                 * [X] ~~*SUB-HEADING 2*~~ [2022-02-06]
 
         * [ ] ENGINEER
-            * [ ] NAVBAR
-            * [ ] BACKGROUND IMAGE
-            * [ ] PROFILE PIC
-            * [ ] DESCRIPTION
-                * [ ] SUB-HEADING 1
-                * [ ] TITLE
-                * [ ] SUB-HEADING 2
+            * [X] ~~*NAVBAR*~~ [2022-02-13]
+            * [X] ~~*BACKGROUND IMAGE*~~ [2022-02-13]
+            * [X] ~~*PROFILE PIC*~~ [2022-02-13]
+            * [X] ~~*DESCRIPTION*~~ [2022-02-13]
+                * [X] ~~*SUB-HEADING 1*~~ [2022-02-13]
+                * [X] ~~*TITLE*~~ [2022-02-13]
+                * [X] ~~*SUB-HEADING 2*~~ [2022-02-13]
                 
         * [ ] PILOT
-            * [ ] NAVBAR
-            * [ ] BACKGROUND IMAGE
-            * [ ] PROFILE PIC
-            * [ ] DESCRIPTION
-                * [ ] SUB-HEADING 1
-                * [ ] TITLE
-                * [ ] SUB-HEADING 2
+            * [X] ~~*NAVBAR*~~ [2022-02-13]
+            * [X] ~~*BACKGROUND IMAGE*~~ [2022-02-13]
+            * [X] ~~*PROFILE PIC*~~ [2022-02-13]
+            * [X] ~~*DESCRIPTION*~~ [2022-02-13]
+                * [X] ~~*SUB-HEADING 1*~~ [2022-02-13]
+                * [X] ~~*TITLE*~~ [2022-02-13]
+                * [X] ~~*SUB-HEADING 2*~~ [2022-02-13]
                 
         * [ ] SPECIALIST
             * [ ] NAVBAR
