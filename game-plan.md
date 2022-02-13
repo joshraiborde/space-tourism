@@ -46,6 +46,7 @@ HTML
     * [X] ~~*SUB-HEADING 1*~~ [2022-02-06]
     * [X] ~~*TITLE*~~ [2022-02-06]
     * [X] ~~*LIST & IMAGES*~~ [2022-02-06]
+
         * [X] ~~*COMMANDER*~~ [2022-02-06]
             * [X] ~~*NAVBAR*~~ [2022-02-06]
             * [X] ~~*BACKGROUND IMAGE*~~ [2022-02-06]
